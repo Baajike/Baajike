@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 # 💫 About Me:
-- 🔭 I’m currently working on a Task Management API
-- 🌱 I’m currently learning Data Science and Machine Learning
+-  I’m currently working on a bunch of short projects
+-  I’m currently learning a lot about Claude code and Codex
 
 
 
